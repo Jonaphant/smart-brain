@@ -1,0 +1,12 @@
+.form {
+    width: 700px;
+}
+
+button {
+    border-left: 0;
+    cursor: pointer;
+}
+
+input{
+    border-right: 0;
+}

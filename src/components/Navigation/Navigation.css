@@ -1,0 +1,15 @@
+
+nav{
+    display: flex; 
+    justify-content: flex-end;
+}
+
+@media (max-width:800px) {
+   nav {
+       display: flex;
+       justify-content: flex-end;
+       flex-direction: column;
+   }
+}
+
+
